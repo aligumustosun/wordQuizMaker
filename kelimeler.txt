@@ -1,0 +1,10 @@
+mouse,fare,1
+computer,bilgisayar,1
+window,pencere,1
+shirt,gomlek,1
+ear,kulak,1
+eye,goz,1
+bed,yatak,1
+phone,telefon,1
+chair,sandalye,1
+desk,sira,1
