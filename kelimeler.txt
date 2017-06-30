@@ -1,10 +1,75 @@
-mouse,fare,1
-computer,bilgisayar,1
-window,pencere,1
-shirt,gomlek,1
-ear,kulak,1
-eye,goz,1
-bed,yatak,1
-phone,telefon,1
-chair,sandalye,1
-desk,sira,1
+au,in the,1,2
+avec,with,1,2
+si,yes-if,1,2
+devoir,to have to,1,2
+venir,to come,2,3
+toi,you,1,2
+sur,over,1,2
+ici,here,1,2
+rien,nothing,1,2
+bon,good,1,2
+suivre,follow,2,3
+parler,speak,2,3
+prendre,take,1,2
+alors,so,1,2
+une chose,thing,1,2
+par,per,1,2
+croire,to believe,2,3
+aimer,to love,1,2
+falloir,must,2,3
+très,very,1,2
+ou,or,3,4
+passer,to pass,1,2
+passer,to pass,1,2
+aussi,also-too,2,3
+jamais,never,1,2
+attendre,to wait,2,3
+trouver,to find,1,2
+laisser,to leave,2,3
+même,same,1,2
+autre,other,1,2
+arriver,to arrive,1,2
+donner,to give,1,2
+regarder,to look at,2,3
+encore,again-still-even,1,2
+appeler,to call,1,2
+est-ce que,is it,1,2
+peu,not much,2,3
+partir,to go,2,3
+ma,my,1,2
+toujours,always,1,2
+jour,day,1,2
+temps,weather-time,1,2
+maintenant,now-nowadays,1,2
+notre,our,1,2
+vie,life,1,2
+mettre,to put,1,2
+rester,to stay,1,2
+sans,without,2,3
+seul,alone,1,2
+arrêter,to stop,2,3
+vraiment,really,2,3
+connaître,to know,1,2
+quelque,some - a few,1,2
+sûr,on-over,1,2
+tuer,to kill,2,3
+mourir,to die,1,2
+demander,to ask,1,2
+juste,just,1,2
+peut-être,perhaps-maybe,1,2
+dieu,god,2,3
+fois,time,1,2
+père,father,1,2
+comprendre,to understand,2,3
+sortir,to go out,2,3
+personne,anyone-personne,1,2
+an,year,1,2
+trop,too much,3,4
+chez,at-to-in,1,2
+monde,world,1,2
+ami,friend,1,2
+vrai,true,1,2
+après,after-later,1,2
+mal,trouble-badly,1,2
+besoin,need,1,2
+accord,agreement,2,3
