@@ -1,75 +1,74 @@
-au,in the,1,2
-avec,with,1,2
-si,yes-if,1,2
-devoir,to have to,1,2
-venir,to come,2,3
-toi,you,1,2
-sur,over,1,2
-ici,here,1,2
-rien,nothing,1,2
-bon,good,1,2
-suivre,follow,2,3
-parler,speak,2,3
-prendre,take,1,2
-alors,so,1,2
-une chose,thing,1,2
-par,per,1,2
-croire,to believe,2,3
-aimer,to love,1,2
-falloir,must,2,3
-très,very,1,2
-ou,or,3,4
-passer,to pass,1,2
-passer,to pass,1,2
-aussi,also-too,2,3
-jamais,never,1,2
-attendre,to wait,2,3
-trouver,to find,1,2
-laisser,to leave,2,3
-même,same,1,2
-autre,other,1,2
-arriver,to arrive,1,2
-donner,to give,1,2
-regarder,to look at,2,3
-encore,again-still-even,1,2
-appeler,to call,1,2
-est-ce que,is it,1,2
-peu,not much,2,3
-partir,to go,2,3
-ma,my,1,2
-toujours,always,1,2
-jour,day,1,2
-temps,weather-time,1,2
-maintenant,now-nowadays,1,2
-notre,our,1,2
-vie,life,1,2
-mettre,to put,1,2
-rester,to stay,1,2
-sans,without,2,3
-seul,alone,1,2
-arrêter,to stop,2,3
-vraiment,really,2,3
-connaître,to know,1,2
-quelque,some - a few,1,2
-sûr,on-over,1,2
-tuer,to kill,2,3
-mourir,to die,1,2
-demander,to ask,1,2
-juste,just,1,2
-peut-être,perhaps-maybe,1,2
-dieu,god,2,3
-fois,time,1,2
-père,father,1,2
-comprendre,to understand,2,3
-sortir,to go out,2,3
-personne,anyone-personne,1,2
-an,year,1,2
-trop,too much,3,4
-chez,at-to-in,1,2
-monde,world,1,2
-ami,friend,1,2
-vrai,true,1,2
-après,after-later,1,2
-mal,trouble-badly,1,2
-besoin,need,1,2
-accord,agreement,2,3
+au,in the,0,-3
+avec,with,0,-3
+si,yes-if,0,-3
+devoir,to have to,0,-3
+venir,to come,0,-3
+toi,you,0,-3
+sur,over,0,-3
+ici,here,0,-3
+rien,nothing,0,-3
+bon,good,0,-3
+suivre,follow,0,-3
+parler,speak,0,-3
+prendre,take,0,-3
+alors,so,0,-3
+une chose,thing,0,-3
+par,per,0,-3
+croire,to believe,0,-3
+aimer,to love,0,-3
+falloir,must,0,-3
+très,very,0,-3
+ou,or,0,-3
+passer,to pass,0,-3
+aussi,also-too,0,-3
+jamais,never,0,-3
+attendre,to wait,0,-3
+trouver,to find,0,-3
+laisser,to leave,0,-3
+même,same,0,-3
+autre,other,0,-3
+arriver,to arrive,0,-3
+donner,to give,0,-3
+regarder,to look at,0,-3
+encore,again-still-even,0,-3
+appeler,to call,0,-3
+est-ce que,is it,0,-3
+peu,not much,0,-3
+partir,to go,0,-3
+ma,my,0,-3
+toujours,always,0,-3
+jour,day,0,-3
+temps,weather-time,0,-3
+maintenant,now-nowadays,0,-3
+notre,our,0,-3
+vie,life,0,-3
+mettre,to put,0,-3
+rester,to stay,0,-3
+sans,without,0,-3
+seul,alone,0,-3
+arrêter,to stop,0,-3
+vraiment,really,0,-3
+connaître,to know,0,-3
+quelque,some - a few,0,-3
+sûr,on-over,0,-3
+tuer,to kill,0,-3
+mourir,to die,0,-3
+demander,to ask,0,-3
+juste,just,0,-3
+peut-être,perhaps-maybe,0,-3
+dieu,god,0,-3
+fois,time,0,-3
+père,father,0,-3
+comprendre,to understand,0,-3
+sortir,to go out,0,-3
+personne,anyone-personne,0,-3
+an,year,0,-3
+trop,too much,0,-3
+chez,at-to-in,0,-3
+monde,world,0,-3
+ami,friend,0,-3
+vrai,true,0,-3
+après,after-later,0,-3
+mal,trouble-badly,0,-3
+besoin,need,0,-3
+accord,agreement,0,-3
