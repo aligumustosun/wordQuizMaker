@@ -5,7 +5,7 @@ import os
 from random import randint
 import random
 
-aradakifark=3
+aradakifark=2
 
 def replace_line(file_name, line_num, text):
     lines = open(file_name, 'r').readlines()
@@ -26,7 +26,7 @@ def satirSayisi(adres):
 i=1
 while (i<satirSayisi('kelimeler.txt')+1):
     a,b,c,d = read_line('kelimeler.txt',i).split(',')
-    replace_line('kelimeler.txt',i,a+","+b+",0,"+str(int((aradakifark)*-1))+"\n")
+    replace_line('kelimeler.txt',i,b+","+a+",0,"+str(int((aradakifark)*-1))+"\n")
     print(i)
     i+=1
     

@@ -1,74 +1,106 @@
-au,in the,0,-3
-avec,with,0,-3
-si,yes-if,0,-3
-devoir,to have to,0,-3
-venir,to come,0,-3
-toi,you,0,-3
-sur,over,0,-3
-ici,here,0,-3
-rien,nothing,0,-3
-bon,good,0,-3
-suivre,follow,0,-3
-parler,speak,0,-3
-prendre,take,0,-3
-alors,so,0,-3
-une chose,thing,0,-3
-par,per,0,-3
-croire,to believe,0,-3
-aimer,to love,0,-3
-falloir,must,0,-3
-très,very,0,-3
-ou,or,0,-3
-passer,to pass,0,-3
-aussi,also-too,0,-3
-jamais,never,0,-3
-attendre,to wait,0,-3
-trouver,to find,0,-3
-laisser,to leave,0,-3
-même,same,0,-3
-autre,other,0,-3
-arriver,to arrive,0,-3
-donner,to give,0,-3
-regarder,to look at,0,-3
-encore,again-still-even,0,-3
-appeler,to call,0,-3
-est-ce que,is it,0,-3
-peu,not much,0,-3
-partir,to go,0,-3
-ma,my,0,-3
-toujours,always,0,-3
-jour,day,0,-3
-temps,weather-time,0,-3
-maintenant,now-nowadays,0,-3
-notre,our,0,-3
-vie,life,0,-3
-mettre,to put,0,-3
-rester,to stay,0,-3
-sans,without,0,-3
-seul,alone,0,-3
-arrêter,to stop,0,-3
-vraiment,really,0,-3
-connaître,to know,0,-3
-quelque,some - a few,0,-3
-sûr,on-over,0,-3
-tuer,to kill,0,-3
-mourir,to die,0,-3
-demander,to ask,0,-3
-juste,just,0,-3
-peut-être,perhaps-maybe,0,-3
-dieu,god,0,-3
-fois,time,0,-3
-père,father,0,-3
-comprendre,to understand,0,-3
-sortir,to go out,0,-3
-personne,anyone-personne,0,-3
-an,year,0,-3
-trop,too much,0,-3
-chez,at-to-in,0,-3
-monde,world,0,-3
-ami,friend,0,-3
-vrai,true,0,-3
-après,after-later,0,-3
-mal,trouble-badly,0,-3
-besoin,need,0,-3
-accord,agreement,0,-3
+avant,before,0,1
+monsieur,gentleman,0,1
+entendre,to hear,1,2
+chercher,to look for,0,1
+heure,hour,0,1
+mieux,better,0,1
+tes,your,0,1
+aider,to help,0,1
+mÃ¨re,mother,0,1
+dÃ©jÃ ,already,0,1
+essayer,to try,0,1
+depuis,since,0,1
+revenir,return,1,2
+plaire,to be successful,0,1
+maison,house,0,1
+gens,people,0,1
+soir,evening,0,1
+jouer,to play,0,1
+finir,to finish,0,1
+peur,fear-fright,0,1
+mort,death-dead,0,1
+perdre,to lose-miss,0,1
+sentir,to smell,0,1
+rentrer,to bring in,0,1
+premier,first,0,1
+problÃ¨me,problem,0,1
+argent,silver,0,1
+vivre,to live,0,1
+rendre,to return,2,3
+dernier,last,0,1
+tenir,hold,0,1
+main,hand,0,1
+vite,quickly,0,1
+oublier,to forget,0,1
+air,air,0,1
+fils,son,1,2
+travailler,to work,0,1
+moins,less,0,1
+tÃªte,head-face,1,2
+Ã©couter,to listen to,0,1
+raison,reason,0,1
+entrer,to go in,0,1
+dont,whose,0,1
+nouveau,new,0,1
+devenir,to become,0,1
+commencer,to start,0,1
+merde,shit,0,1
+moment,moment,0,1
+voiture,car,0,1
+vieux,old,1,2
+demain,tomorrow,0,1
+revoir,goodbye,0,1
+payer,to pay,0,1
+fou,mad,0,1
+tirer,to pull,0,1
+ouvrir,to open,0,1
+oeil,eye,0,1
+fait,event,0,1
+changer,to change,0,1
+tomber,to fall,0,1
+assez,enough,1,2
+excuser,to forgive,0,1
+affaire,affiar-business,0,1
+dormir,to sleep,1,2
+combien,how much,0,1
+frÃ¨re,brother,0,1
+travail,employment,0,1
+idÃ©e,idea,0,1
+puis,next,0,1
+famile,family,0,1
+souvenir,memory,0,1
+ni,nor,0,1
+tous,everything,0,1
+occuper,to occupy,0,1
+marcher,to walk,0,1
+chance,luck,0,1
+envoyer,to send,0,1
+histoire,story,0,1
+apprendre,to learn,0,1
+boire,to drink,0,1
+garder,to keep,0,1
+porte,gate-door,0,1
+montrer,to show,0,1
+asseoir,to sit down,0,1
+porter,to carry,0,1
+annÃ©e,year,0,1
+sous,under,0,1
+prÃªt,ready,0,1
+contre,against,0,1
+prier,to pray,0,1
+pendant,during,0,1
+mois,month,0,1
+meilleur,better-the best,0,1
+servir,to serve,0,1
+madame,madam,0,1
+putain,whore-hooker,2,3
+Ã©crire,to write,0,1
+part,share,0,1
+eau,water,0,1
+sang,blood,0,1
+place,room,0,1
+espÃ©rer,to hope for,0,1
+plein,full,0,1
+dÃ©soler,to distress-upset,0,1
+retrouver,to find-meet,0,1
+ville,town-city,0,1
