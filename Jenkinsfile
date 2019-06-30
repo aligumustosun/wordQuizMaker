@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   tools {
-    docker 'myDocker' 
+    org.jenkinsci.plugins.docker.commons.tools.DockerTool 'myDocker' 
   }  
 
    stages {
