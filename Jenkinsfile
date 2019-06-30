@@ -1,11 +1,14 @@
 pipeline {
   agent any
 
-  stages {
+  tools {
+    docker 'myDocker' 
+  }  
+
+   stages {
     stage('dockerize') {
-      steps {
-	def dockerHome = tool 'myDocker'
-        sh "${dockerHome} build . -t agt/wordquizmaker"
+      steps {	
+	sh "docker build . -t agt/wordquizmaker"
       }
     }
   }
