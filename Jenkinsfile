@@ -2,9 +2,9 @@ pipeline {
   agent any
 
   stages {
-    stage('run') {
+    stage('dockerize') {
       steps {
-        sh 'python fuck.py'
+        sh 'docker build . -t agt/wordquizmaker'
       }
     }
   }
