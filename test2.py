@@ -12,11 +12,11 @@ def replace_line(file_name, line_num, text):
    # print("it is replaced")
     out.writelines(lines)
     out.close()
-#satir sayisini döndürür.
+#satir sayisini dondurur.
 def satirSayisi(adres):
     lines=open(adres, 'r').readlines()
     return len(lines)
-#asil soru sorma işlemi burada gerçekleşir.
+#asil soru sorma islemi burada gerceklesir.
 def soruSor():
     lines=open('kelimeler.txt','r').readlines() 
     x=int(satirSayisi('kelimeler.txt'))
