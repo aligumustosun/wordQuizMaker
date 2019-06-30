@@ -4,7 +4,8 @@ pipeline {
   stages {
     stage('dockerize') {
       steps {
-        sh 'docker build . -t agt/wordquizmaker'
+	def dockerHome = tool 'myDocker'
+        sh "${dockerHome} build . -t agt/wordquizmaker"
       }
     }
   }
