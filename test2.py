@@ -51,10 +51,10 @@ def soruSor():
       print('\n\nD - ',c4)
       answer = input()
       if(answer=='A' or answer =='a'):
-        print('✓ True ✓')
+        print(' True ')
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+y1+","+str(int(d1)+1)+"\n")
       else:
-        print('× False, the answer is: ', c1,". ×")
+        print(' False, the answer is: ', c1,". ")
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+str(int(y1)+1)+","+d1+"\n")
     elif(rastgele%4==1):
       print("\n\n",s1,' ? ')
@@ -64,10 +64,10 @@ def soruSor():
       print('\n\nD - ',c4)
       answer = input()
       if(answer=='B' or answer =='b'):
-        print('✓ True ✓')
+        print(' True ')
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+y1+","+str(int(d1)+1)+"\n")
       else:
-        print('× False, the answer is: ', c1,". ×")
+        print(' False, the answer is: ', c1,". ")
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+str(int(y1)+1)+","+d1+"\n")
     elif(rastgele%4==2):
       print("\n\n",s1,' ? ')
@@ -77,10 +77,10 @@ def soruSor():
       print('\n\nD - ',c4)
       answer = input()
       if(answer=='C' or answer =='c'):
-        print('✓ True ✓')
+        print(' True ')
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+y1+","+str(int(d1)+1)+"\n")
       else:
-        print('× False, the answer is: ', c1,". ×")
+        print(' False, the answer is: ', c1,". ")
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+str(int(y1)+1)+","+d1+"\n")
     elif(rastgele%4==3):
       print("\n\n",s1,' ? ')
@@ -90,10 +90,10 @@ def soruSor():
       print('\n\nD - ',c1)
       answer = input()
       if(answer=='D' or answer =='d'):
-        print('✓ True ✓')
+        print(' True ')
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+y1+","+str(int(d1)+1)+"\n")
       else:
-        print('× False, the answer is: ', c1,". ×")
+        print('False, the answer is: ', c1,". ")
         replace_line("kelimeler.txt", my_list[0] , s1+","+c1+","+str(int(y1)+1)+","+d1+"\n")
 
 while(1):
