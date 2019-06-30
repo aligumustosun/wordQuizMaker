@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('run') {
       steps {
-        sh 'python test2.py'
+        sh 'python fuck.py'
       }
     }
   }
