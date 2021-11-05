@@ -2,5 +2,5 @@ FROM python:3.7.3-alpine3.10
 
 COPY . .
 
-CMD ["python", "hi.py"]
+CMD ["python", "run.py"]
 

@@ -1,7 +1,0 @@
-shirt,gomlek,1,2
-ear,kulak,2,3
-eye,goz,7,8
-bed,yatak,2,3
-phone,telefon,1,2
-chair,sandalye,2,3
-desk,sira,3,4

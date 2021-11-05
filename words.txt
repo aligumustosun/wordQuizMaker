@@ -1,0 +1,106 @@
+to hear,entendre,0,3
+gentleman,monsieur,0,3
+before,avant,0,3
+to look for,chercher,0,3
+hour,heure,0,3
+better,mieux,0,3
+your,tes,0,3
+to help,aider,0,3
+mother,mère,0,3
+already,déjà,0,3
+to try,essayer,0,3
+since,depuis,0,3
+return,revenir,0,3
+to be successful,plaire,0,3
+house,maison,-1,3
+people,gens,0,3
+evening,soir,0,3
+to play,jouer,0,3
+to finish,finir,0,3
+fear-fright,peur,0,3
+death-dead,mort,0,3
+to lose-miss,perdre,0,3
+to smell,sentir,0,3
+to bring in,rentrer,0,3
+first,premier,0,3
+problem,problème,0,3
+silver,argent,0,3
+to live,vivre,0,3
+to return,rendre,0,3
+last,dernier,0,3
+hold,tenir,0,3
+hand,main,0,3
+quickly,vite,0,3
+to forget,oublier,0,3
+air,air,0,3
+son,fils,0,3
+to work,travailler,1,3
+less,moins,0,3
+head-face,tête,0,3
+to listen to,écouter,1,3
+reason,raison,0,3
+to go in,entrer,0,3
+whose,dont,0,3
+new,nouveau,0,3
+to become,devenir,0,3
+to start,commencer,0,3
+shit,merde,1,3
+moment,moment,0,3
+car,voiture,0,3
+old,vieux,0,3
+tomorrow,demain,0,3
+goodbye,revoir,0,3
+to pay,payer,0,3
+mad,fou,0,3
+to pull,tirer,0,3
+to open,ouvrir,0,3
+eye,oeil,0,3
+event,fait,0,3
+to change,changer,0,3
+to fall,tomber,0,3
+enough,assez,0,3
+to forgive,excuser,0,3
+affiar-business,affaire,0,3
+to sleep,dormir,0,3
+how much,combien,1,3
+brother,frère,0,3
+employment,travail,0,3
+idea,idée,0,3
+next,puis,0,3
+family,famile,1,3
+memory,souvenir,0,3
+nor,ni,0,3
+everything,tous,0,3
+to occupy,occuper,0,3
+to walk,marcher,0,3
+luck,chance,0,3
+to send,envoyer,0,3
+story,histoire,0,3
+to learn,apprendre,1,3
+to drink,boire,0,3
+to keep,garder,0,3
+gate-door,porte,1,3
+to show,montrer,0,3
+to sit down,asseoir,0,3
+to carry,porter,0,3
+year,année,1,3
+under,sous,1,3
+ready,prêt,0,3
+against,contre,0,3
+to pray,prier,0,3
+during,pendant,1,3
+month,mois,0,3
+better-the best,meilleur,0,3
+to serve,servir,0,3
+madam,madame,0,3
+whore-hooker,putain,0,3
+to write,écrire,0,3
+share,part,0,3
+water,eau,0,3
+blood,sang,0,3
+room,place,0,3
+to hope for,espérer,0,3
+full,plein,1,3
+to distress-upset,désoler,0,3
+to find-meet,retrouver,0,3
+town-city,ville,0,3
